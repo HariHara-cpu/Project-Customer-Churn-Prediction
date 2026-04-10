@@ -140,3 +140,5 @@ The application uses:
 - **scikit-learn** for ML model inference
 - **pickle** for model serialization
 
+## Output
+<img width="799" height="924" alt="image" src="https://github.com/user-attachments/assets/2a165ec7-39c9-4fb2-868d-b96a825d126d" />
